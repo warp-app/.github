@@ -2,12 +2,12 @@
   <img width="150px" src="https://avatars.githubusercontent.com/u/174144477">
 </p>
 
-<h1 align="center">Warp</h1>
+<h1 align="center">Warp [Unfinished]</h1>
 
 ### About
 A minimalist web proxy built to be simple yet powerful.
 
-Submission for the 2024 Proxathon.
+Originally Submission for the 2024 Proxathon.
 
 Logo is just a placeholder :)
 
